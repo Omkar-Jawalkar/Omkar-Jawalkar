@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Omkar Jawalkar</h1>
 <h3 align="center">I love to build products</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1086216131/thumb/9.jpg?ip=x480"/>
 
 - 🔭 I’m currently working on [Quizzup](https://quiz-app-omkar.vercel.app/)
 
