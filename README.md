@@ -2,7 +2,6 @@
 <h3 align="center">I love to build products</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers&psig=AOvVaw2aHEnqc7U2Bgl59tfdkldj&ust=1687530413795000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjV3-qK1_8CFQAAAAAdAAAAABAE"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar-jawalkar" alt="omkar-jawalkar" /></a> </p>
 
 - 🔭 I’m currently working on [Quizzup](https://quiz-app-omkar.vercel.app/)
 
