@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Walkthrough-js-dev](https://github.com/Omkar-Jawalkar/walkthrough-js-dev)
 
-- 🌱 I’m currently learning **Core coding paradigms**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://omkarjawalkar.netlify.app/](https://omkarjawalkar.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omkarjawalkar234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DbD-Gro8f85P8o-qyeKhLlzymzRr7Ulg/view?usp=sharing](https://drive.google.com/file/d/1DbD-Gro8f85P8o-qyeKhLlzymzRr7Ulg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YEG9ue6Y-wVkVTCZkUHgknhOClksyVVT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
