@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Omkar Jawalkar</h1>
 <h3 align="center">I love to build products</h3>
 
-- 🔭 I’m currently working on [Quizzup](https://quiz-app-omkar.vercel.app/)
+- 🔭 I’m currently working on [Walkthrough-js-dev](https://github.com/Omkar-Jawalkar/walkthrough-js-dev)
 
 - 🌱 I’m currently learning **Core coding paradigms**
 
