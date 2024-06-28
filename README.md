@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omkarjawalkar234@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YEG9ue6Y-wVkVTCZkUHgknhOClksyVVT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Aq5REPSSNAIbj7UXjXcHkCaz6QcY2iy0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
